@@ -205,25 +205,25 @@ export const DEVELOPMENT_STEPS: readonly DevelopmentStep[] = [
   {
     step: 1,
     title: "ヒアリング・要件確定",
-    duration: "1〜2週間",
+    duration: "0.5週間",
     description: "ASP仕様書確認・データ項目確定・画面構成合意",
   },
   {
     step: 2,
     title: "WordPress構築・基本機能",
-    duration: "2〜3週間",
+    duration: "1-1.5週間",
     description: "テーマ設定・案件管理・フォーム・流入計測実装",
   },
   {
     step: 3,
     title: "ASP連携・リード管理",
-    duration: "1〜2週間",
+    duration: "0.5週間",
     description: "click_id紐付け・ポストバック実装・重複検出・送客設定",
   },
   {
     step: 4,
     title: "テスト・修正",
-    duration: "1週間",
+    duration: "0.5週間",
     description: "全機能動作確認・ASPテスト成果確認・スマホ表示確認",
   },
   {
